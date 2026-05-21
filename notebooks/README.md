@@ -133,5 +133,5 @@ Mihiret Fasika
 
 ```steps
 git add .
-git commit -m "Add PostgreSQL schema and project documentation"
+git commit -m "adding notebooks and Databse of Task-3"
 git push
