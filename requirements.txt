@@ -6,7 +6,7 @@ python-dotenv==1.0.1
 pytest==8.2.0
 flake8==7.0.0
 transformers==5.9.0
-pipeline==0.0
+pipeline==0.0.3
 scipy==1.17.1
 nltk==3.9.4
 spacy==3.8.13
