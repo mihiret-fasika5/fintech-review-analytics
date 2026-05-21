@@ -123,7 +123,6 @@ Project Structure
 project/
 │
 ├── cleaned_reviews.csv
-├── insert_reviews.py
 ├── schema.sql
 ├── README.md
 Author
